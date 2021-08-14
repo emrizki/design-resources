@@ -8,6 +8,6 @@ contains a collection of design resources that I got in the wild to work on my n
 
 ## Tools for Web Developers
 
-[The best list of free public APIs[(https://public-apis.xyz/)
+[The best list of free public APIs](https://public-apis.xyz/) <br>
 [UI Kit for sleek looking dashboards](https://www.invisionapp.com/inside-design/design-resources/)
 
