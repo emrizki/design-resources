@@ -14,4 +14,8 @@ contains a collection of resources that I got in the wild to work on my next pro
 [Programming Fonts](https://www.programmingfonts.org/) <br>
 [Color Palette Picker](https://palettte.app/) <br>
 [Git Commands Explorer](https://gitexplorer.com/)
-
+[Free HD Videos](https://mixkit.co/)
+[1000+ Pixel-Perfect Vector Icon](https://iconscout.com/unicons)
+[Charts Everywhere](https://chartsfactory.com/)
+[Turn spreedsheet into API](https://sheety.co/)
+[Shell Command Explorer](https://explainshell.com/)
